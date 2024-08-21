@@ -50,3 +50,4 @@ Predictive modeling with linear regression involves creating a model that predic
    - **Transparency:** Maintain transparency about how the model was built and how predictions are made.
 
 This overview provides a high-level view of a predictive modeling project with linear regression. Each step can involve detailed tasks and considerations depending on the complexity of the problem and the nature of the data.
+![Screenshot 2024-08-13 223711](https://github.com/user-attachments/assets/ae2b4c01-b515-4365-b006-8767a3beffe3)
